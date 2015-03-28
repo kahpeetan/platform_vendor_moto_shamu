@@ -36,8 +36,7 @@ LOCAL_STEM := vendor/moto/shamu/device-partial.mk
     ims \
     RCSBootstraputil \
     RcsImsBootstraputil \
-    RcsService \
-    HiddenMenu 
+    RcsService 
     
 # Prebuilt jars
     PRODUCT_PACKAGES += \
